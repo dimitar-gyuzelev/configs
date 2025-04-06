@@ -1,0 +1,11 @@
+# Config docs: https://ghostty.org/docs/config
+
+# cursor config
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = false
+
+# font config
+font-family = JetBrainsMono Nerd Font Mono
+font-thicken = true
+font-size = 14
